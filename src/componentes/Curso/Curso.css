@@ -34,4 +34,13 @@
     line-height: 22px;
     color: #212121;
     padding: 0 16px;
+    word-wrap: break-word;
+}
+
+.curso .rodape a {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+    word-wrap: break-word;
 }

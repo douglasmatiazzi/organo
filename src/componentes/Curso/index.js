@@ -14,7 +14,7 @@ const Curso = (props) => {
                 <h4>{props.nome}</h4>
                 <h5>{props.carga}</h5>
                 <h5>{props.data}</h5>
-                <h5>{props.certificado}</h5>
+                <a href={props.certificado}>Certificado</a>
             </div>   
 
         </div>
